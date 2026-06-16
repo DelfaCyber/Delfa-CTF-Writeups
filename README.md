@@ -50,15 +50,6 @@ Siber Güvenlik Araştırmacısı | Yazılım Geliştirici
 
 ---
 
-# 🚀 Aktif Hedefler
-
-- Siber güvenlik alanında uzmanlaşmak
-- Rust öğrenmek
-- Linux bilgimi geliştirmek
-- Açık kaynak projelere katkı sağlamak
-
----
-
 # 📊 Ziyaretçi Sayacı
 
 ![](https://komarev.com/ghpvc/?username=Delfa&style=flat-square)
