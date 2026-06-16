@@ -26,11 +26,6 @@ Siber Güvenlik Araştırmacısı | Yazılım Geliştirici
 
 ---
 
-# 🔗 Bağlantılar
-
-- GitHub: https://github.com/Delfa
-- Tiktok: # Delfa
-
 ### 👤 Kimlik: Delfa
 
 Siber Güvenlik Araştırmacısı | Yazılım Geliştirici
